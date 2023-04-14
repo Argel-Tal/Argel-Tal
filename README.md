@@ -1,4 +1,4 @@
-**🌈 Howdy, I’m Argel-Tal! A Data Scientist, and grad of the University of Otago, working in and from Wellington NZ 🌈**
+**🌈 Howdy, I’m Argel-Tal! A Data Scientist, and grad of the University of Otago, working in Brisbane AU, from Wellington NZ 🌈**
 
 My background is a mix of Graphic Design, Statistics and Chemistry, but I'm now in Data Science and Asia-Pacific security/foreign policy *(with a focus on mainland-China)*.
 
